@@ -4,6 +4,7 @@ Nuker Bot Prebuild
 - Change text of the spam feature
 - Able to use own Bot
 - Built in Screamz Bot
+- Host it by opening exe
 # Commands
 ```
 screamz2k (To activate all other commands and to get admin role)
