@@ -1,10 +1,9 @@
 # SCREAMZ-NUKER
 Nuker Bot Prebuild
-# Features:
-```
-Change text of the spam feature
-Able to use own Bot
-```
+## Features:
+- Change text of the spam feature
+- Able to use own Bot
+- Built in Screamz Bot
 # Commands
 ```
 screamz2k (To activate all other commands and to get admin role)
