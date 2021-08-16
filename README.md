@@ -16,3 +16,4 @@ role_spam
 mass_ban
 mass_kick
 ```
+!! For educational purposes only  !!
