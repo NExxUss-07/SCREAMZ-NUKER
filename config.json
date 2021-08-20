@@ -1,5 +1,6 @@
 {
-    "token": "paste bot token here",
-    "prefix": "!",
-    "spam_message": "https://github.com/screamz2k"
+  "prefix": "!",
+  "spam_message": "https://github.com/screamz2k",
+  "stop_enabled": "True",
+  "token": "paste bot token here"
 }
